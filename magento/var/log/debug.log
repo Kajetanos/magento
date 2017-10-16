@@ -326,3 +326,5 @@
 [2017-10-11 20:26:33] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://localhost/magento/admin_32bd54/admin/index/index/key/1e2229253666e661d99798ded453afa5f51e45e264b52da02c00db268f5d6bc8/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"},"is_exception":false} []
 [2017-10-11 20:28:46] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://localhost/magento/admin_32bd54/admin/system_store/save/key/3290e97cce752e366b6aa579d68741056d908ebc7dddc4eb5493342ad59e578a/","invalidateInfo":{"tags":[],"mode":"all"},"is_exception":false} []
 [2017-10-11 20:28:46] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://localhost/magento/admin_32bd54/admin/system_store/save/key/3290e97cce752e366b6aa579d68741056d908ebc7dddc4eb5493342ad59e578a/","invalidateInfo":{"tags":[],"mode":"all"},"is_exception":false} []
+[2017-10-15 20:35:14] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"},"is_exception":false} []
+[2017-10-15 20:35:14] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"},"is_exception":false} []
